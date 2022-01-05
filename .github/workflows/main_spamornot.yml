@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'spamornot'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5FC2731233B74DD0AFECCE922E27C1CE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3854E8646B8E4590BD751030DB32FC25 }}
